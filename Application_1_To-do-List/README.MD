@@ -3,11 +3,6 @@
 This To-Do List application is a simple, intuitive tool built in C# with WPF, allowing you to manage tasks efficiently. The application lets you create, edit, delete, and mark tasks as completed, and also provides filtering options to view tasks based on their completion status.
 
 
-## Installation
-To install the application, clone the repository to your local machine, open the solution file in Visual Studio 2022, and run the application.
-
-    git clone https://github.com/[yourusername]/todolist
-
 
 ## Usage
 
