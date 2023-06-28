@@ -4,7 +4,7 @@ This console application reads data from an input CSV file, generates unique IDs
 
 ## Usage
 
-1. Ensure that the input CSV file (`input.csv`) is located in the same directory as the compiled executable file of the application.
+1. Ensure that the input CSV file (`input.csv`) is located inVIKTOR_S_U16A2-main\Application_2_IndexRef\IndexRef\bin\Debug\net6.0 directory.
 
 2. Open a command prompt or terminal and navigate to the directory where the compiled executable file (`ConsoleApp.exe`) is located.
 
